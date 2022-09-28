@@ -31,7 +31,7 @@ Whilst working on this challenge i was able to learn about media queries when an
 
 ### Continued development
 
-I had a few challenges with the use of display-flex will be focusing on it to fully understand what it entails
+I had a few challenges with the use of display-flex i will be focusing on it to fully understand what it entails
 
 ## Author
 
